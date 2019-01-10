@@ -1,7 +1,13 @@
 
 ## What is this
 
-- sample code of [Setting Velocity on Joints and Links (Gazebo ver7.0)](http://gazebosim.org/tutorials?tut=set_velocity) changing for Gazebo version 9.0
+- sample code of [Setting Velocity on Joints and Links (Gazebo ver7.0)](http://gazebosim.org/tutorials?tut=set_velocity) changing for Gazebo version 9.6
+
+## Environment
+
+- Ubuntu18.04LTS
+- ROS: Melodic
+- Gazebo 9.6
 
 ## Bebug from Gazebo version 7.0
 
