@@ -9,6 +9,11 @@
 - ROS: Melodic
 - Gazebo 9.6
 
+## Run
+
+- chmod a+x start.sh
+- ./start.sh
+
 ## Bebug from Gazebo version 7.0
 
 * math::Vector3 -> ignition::math::Vector3d
